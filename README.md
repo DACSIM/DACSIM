@@ -11,6 +11,7 @@
 * Past collaboration with <b><i>United Overseas Bank</i></b>, where members used NLP to perform financial analysis on their exclusive data sets.
 * Past collaboration with <b><i>FDM</i></b>, where members used NLP to perform competitive job description analysis.
 * Other collaborations include MNCs such as Nippon Telegraph and Telephone (NTT) and ICE Futures.
+* Over a 100 members for the 2024 operating year!
 
 ## 👯 Our Socials
 * Our official email address: ✉️ <b><i>simdac@sim.edu.sg</b></i>
