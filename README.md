@@ -1,5 +1,5 @@
 # Hello!!! We are the Data Analytics Club 👋
-
+<img src="https://github.com/user-attachments/assets/d3891bb3-6e77-4acf-872a-8f7535eaf5fe" width="250vw" height="250vh"><br>
 ## 👨‍💻 About Us
 * We are a student-led club from Singapore Institute of Management operating since 2014.
 * Led by and designed for students studying Data Analytics and Computer Science degrees at SIM.
@@ -13,7 +13,7 @@
 * Other collaborations include MNCs such as Nippon Telegraph and Telephone (NTT) and ICE Futures.
 
 ## 👯 Our Socials
-* Our official email address: <b><i>simdac@sim.edu.sg</b></i>
-* <a href="https://www.linkedin.com/company/simdac/">(LinkedIn.png)</a>
-* <a href="https://www.instagram.com/sim_dac/">(Instagram.png)</a>
-* <a href="https://tiktok.com/@sim_dac?lang=en">(TikTok.png)</a>
+* Our official email address: ✉️ <b><i>simdac@sim.edu.sg</b></i>
+* ⚙️ <a href="https://www.linkedin.com/company/simdac/"><b><i>LinkedIn</b></i></a>
+* 📷 <a href="https://www.instagram.com/sim_dac/"><b><i>Instagram</b></i></a>
+* 🎉 <a href="https://tiktok.com/@sim_dac?lang=en"><b><i>TikTok</b></i></a>
