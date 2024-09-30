@@ -1,5 +1,6 @@
 # **👋 Hello! Welcome to the Data Analytics Club (DAC)**
-<img src="https://github.com/user-attachments/assets/d3891bb3-6e77-4acf-872a-8f7535eaf5fe" width="250" height="250">
+
+<img src="https://github.com/user-attachments/assets/bdd84393-9a34-48d9-a52d-8d8847efd76d" width="464" height="200">
 
 ## **👨‍💻 About Us**
 - We are a student-led club at the Singapore Institute of Management (SIM), established in 2014.
@@ -11,7 +12,7 @@
 - **DACademy Track:** Beginner-friendly, covering fundamental Python and SQL concepts.
 - **DSAcademy Track:** Advanced, focusing on topics like Deep Learning and Generative AI.
 
-## **🔥 Achievements**
+## **Achievements**
 - Collaborated with **United Overseas Bank (UOB)** on financial analysis using NLP on exclusive datasets.
 - Partnered with **FDM Group** to conduct competitive job description analysis using NLP techniques.
 - Worked with other MNCs such as **Nippon Telegraph & Telephone (NTT)** and **ICE Futures** on various data-driven projects.
