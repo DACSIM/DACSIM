@@ -13,8 +13,8 @@
 <br>
 
 ### **Tracks Offered:**
-- **[DACademy](DAC-Curriculum) Track:** Beginner-friendly, covering fundamental Python and SQL concepts.
-- **[DSAcademy](DSA-Curriculum) Track:** Advanced, focusing on topics like Deep Learning and Generative AI.
+- **[DACademy](https://github.com/DACSIM/DAC-Curriculum) Track:** Beginner-friendly, covering fundamental Python and SQL concepts.
+- **[DSAcademy](https://github.com/DACSIM/DSA-Curriculum) Track:** Advanced, focusing on topics like Deep Learning and Generative AI.
 
 <br>
 
