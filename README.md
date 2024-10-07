@@ -3,6 +3,8 @@
 <img src="https://github.com/user-attachments/assets/bdd84393-9a34-48d9-a52d-8d8847efd76d" width="1000" height="400">
 
 ## **👨‍💻 About Us**
+<img src="https://github.com/user-attachments/assets/82c45a19-3d89-4395-b73e-89d0a49a549a" align=right width="350" height="350">
+
 - We are a student-led club at the Singapore Institute of Management (SIM), established in 2014.
 - Our club caters to students who are passionate about data analytics and data science.
 - We aim to provide a platform for both beginners and advanced learners to explore, learn, and excel in these fields.
