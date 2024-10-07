@@ -1,6 +1,6 @@
 # **👋 Hello! Welcome to the Data Analytics Club (DAC)**
 
-<img src="https://github.com/user-attachments/assets/bdd84393-9a34-48d9-a52d-8d8847efd76d" width="464" height="200">
+<img src="https://github.com/user-attachments/assets/bdd84393-9a34-48d9-a52d-8d8847efd76d" width="1000" height="400">
 
 ## **👨‍💻 About Us**
 - We are a student-led club at the Singapore Institute of Management (SIM), established in 2014.
