@@ -25,7 +25,7 @@
 - Welcomed over 100 members for the 2024 academic year!
 
 ## **🌐 Connect With Us**
-- **Official Email:** ✉️ [simdac@sim.edu.sg](mailto:simdac@sim.edu.sg)
+- **✉️[Email](mailto:simdac@sim.edu.sg)** 
 - **🔗[LinkedIn](https://www.linkedin.com/company/simdac/)**
 - **📷[Instagram](https://www.instagram.com/sim_dac/)**
 - **🎥[TikTok](https://tiktok.com/@sim_dac?lang=en)**
