@@ -18,21 +18,6 @@
 
 <br>
 
-### **Contributors:**
-
-| **Name**           | **Role**                     | **GitHub**                                                                            |
-|--------------------|------------------------------|---------------------------------------------------------------------------------------|
-| [Jun Yeow](#)      | President                    | [GitHub](https://github.com/JohnYeow23)                                               |
-| [Cheryl](#)        | Vice-President               | [GitHub](https://github.com/rylmatoo)                                                 |
-| [Genevieve](#)     | Events Director              | [GitHub](https://github.com/genv3210)                                                 |
-| [Jaryl](#)         | Operations Director          | [GitHub](https://github.com/JarylLiewJW)                                              |
-| [Luqman](#)        | Partnerships Director        | [GitHub](https://github.com/LuqDaMan)                                                 |
-| [Kaavya](#)        | Marketing Director           | [GitHub](https://github.com/kaavya-22)                                                |
-| [Abhishek](#)      | Finance Director             | [GitHub](https://github.com/Vettel99)                                                 |
-
-
-<br>
-
 ## **Achievements**
 - Collaborated with **United Overseas Bank (UOB)** on financial analysis using NLP on exclusive datasets.
 - Partnered with **FDM Group** to conduct competitive job description analysis using NLP techniques.
@@ -45,3 +30,16 @@
 - **📷[Instagram](https://www.instagram.com/sim_dac/)**
 - **🎥[TikTok](https://tiktok.com/@sim_dac?lang=en)**
 
+<br>
+
+### **Contributors:**
+
+| **Name**           | **Role**                     | **GitHub**                                                                            |
+|--------------------|------------------------------|---------------------------------------------------------------------------------------|
+| [Jun Yeow](#)      | President                    | [GitHub](https://github.com/JohnYeow23)                                               |
+| [Cheryl](#)        | Vice-President               | [GitHub](https://github.com/rylmatoo)                                                 |
+| [Genevieve](#)     | Events Director              | [GitHub](https://github.com/genv3210)                                                 |
+| [Jaryl](#)         | Operations Director          | [GitHub](https://github.com/JarylLiewJW)                                              |
+| [Luqman](#)        | Partnerships Director        | [GitHub](https://github.com/LuqDaMan)                                                 |
+| [Kaavya](#)        | Marketing Director           | [GitHub](https://github.com/kaavya-22)                                                |
+| [Abhishek](#)      | Finance Director             | [GitHub](https://github.com/Vettel99)                                                 |
