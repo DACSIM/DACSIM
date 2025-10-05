@@ -22,7 +22,7 @@
 - Collaborated with **United Overseas Bank (UOB)** on financial analysis using NLP on exclusive datasets.
 - Partnered with **FDM Group** to conduct competitive job description analysis using NLP techniques.
 - Worked with other MNCs such as **Nippon Telegraph & Telephone (NTT)** and **ICE Futures** on various data-driven projects.
-- Welcomed over 100 members for the 2024 academic year!
+- Welcomed over 100 members for the 2025 academic year!
 
 ## **🌐 Connect With Us**
 - **✉️[Email](mailto:simdac@sim.edu.sg)** 
